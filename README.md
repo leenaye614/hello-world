@@ -1,2 +1,4 @@
 # hello-world
-이 리포지토리는 GitHub 흐름 연습용입니다. 
+Hello! I'm Naye.
+This is my first GitHub repository.
+I'm learning how to use GitHub!
